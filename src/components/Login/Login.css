@@ -1,0 +1,15 @@
+.login--form {
+    width: 90%;
+    height: 90%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.check--box__container {
+    display: flex;
+    gap: 1rem;
+}
