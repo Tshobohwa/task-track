@@ -16,7 +16,7 @@ const SignUp = () => {
             <button className="login--form__btn" type="submit">Sign up</button>
             <div className="sign--up__container">
                 <p>Already have an account?</p>
-                <Link className='login--link' to='/login'>Login</Link>
+                <Link to='/login'>Login</Link>
             </div>
         </form>
   )
