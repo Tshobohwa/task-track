@@ -14,7 +14,7 @@ const Login = () => {
             <button className="login--form__btn" type="submit">Log in</button>
             <div className="sign--up__container">
                 <p>Don't have an account?</p>
-                <Link className='login--link' to='/sign_up'>Sign Up</Link>
+                <Link to='/sign_up'>Sign Up</Link>
             </div>
             <div className='form--container'>
                 <p>Forgot your password?</p>

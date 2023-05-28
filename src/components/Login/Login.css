@@ -13,3 +13,13 @@
     display: flex;
     gap: 1rem;
 }
+
+.login--form__btn {
+    padding: 0.5rem 1rem;
+    color: var(--background-color);
+    font-weight: 600;
+    font-size: 1.2rem;
+    background-color: var(--quaternary-color);
+    cursor: pointer;
+    border: none;
+}
