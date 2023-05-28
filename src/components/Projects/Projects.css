@@ -1,0 +1,27 @@
+.projects--header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding-top: 4rem;
+    padding-left: 1rem;
+    padding-right: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.new--project__btn {
+    background-color: var(--tertiary-color);
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    border: solid 1px #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project--page__icon {
+    height: 1.5rem;
+    width: 1.5rem;
+}
