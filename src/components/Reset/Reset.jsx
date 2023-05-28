@@ -8,7 +8,7 @@ const Reset = () => {
   return (
     <form className='reset--form'>
         <input className='form--input' placeholder='email' type='email' />
-        <button className='form--button' type='submit'>Reset code</button>
+        <button className='reset--form__btn' type='submit'>Reset code</button>
         <div className='form--container'>
             <p>Back to login</p>
             <Link to='/login'>Login</Link>

@@ -6,3 +6,13 @@
     align-items: center;
     gap: 1.5rem;
 }
+
+.reset--form__btn {
+    padding: 0.5rem 1rem;
+    color: var(--background-color);
+    font-weight: 600;
+    font-size: 1.2rem;
+    background-color: var(--quaternary-color);
+    cursor: pointer;
+    border: none;
+}
